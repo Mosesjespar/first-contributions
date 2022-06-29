@@ -19,6 +19,7 @@ Tony Idehen
 - [Megha Juneja](https://github.com/mjunej)
 - [The Singularity is Near](https://github.com/standardAI)
 - [Peco602](https://github.com/Peco602)
+- [Ssembatya Moses](https://github.com/Mosesjespar)
 - [Nitinram Velraj] (https://github.com/nitinramvelraj)
 - [Mark Timothy Advento] (https://github.com/markadv/)
 - [Sami Amjid Khan] (https://github.com/samiamjidkhan/)
